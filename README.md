@@ -1,9 +1,8 @@
 <!-- ANIMATED HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=FF5F9E&center=true&vCenter=true&width=800&lines=Hi+There+%F0%9F%91%8B+I'm+Muskan+Ostwal;AI+Engineer+%7C+Full+Stack+Developer;ML+%7C+Computer+Vision+%7C+MERN+Stack;Passionate+About+Building+Smart+Solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=1ae3f8&center=true&vCenter=true&width=800&lines=Hi+There+%F0%9F%91%8B+I'm+Muskan+Ostwal;AI/ML+Engineer+%7C+Full+Stack+Developer;Passionate+About+Building+Smart+Solutions!" alt="Typing SVG" />
 </h1>
 
----
 
 <!-- SOCIAL BADGES -->
 <p align="center">
@@ -18,19 +17,17 @@
   </a>
 </p>
 
----
 
 # 🎨 **About Me**
 
-💡 I’m a **Computer Science Engineer (2026)** passionate about  
-**AI, Computer Vision, Backend Engineering, and Modern Web Apps**.
+💡 I’m a final year **Computer Science Engineering (2026)** student, passionate about  
+**AI,ML, Computer Vision,Frontend development, Backend development, and Modern Web Applications**.
 
 🌟 I love building **scalable systems, intelligent models, and user-centric applications**.
 
-📍 Based in **Rohtak, Haryana**  
+📍 Location: **Rohtak, Haryana**  
 📧 Email: **ostwalmuskan@gmail.com**
 
----
 
 # 🚀 **My Projects**
 
@@ -40,7 +37,6 @@
 🔐 Secure login with JWT  
 ⭐ Review & rating flow for better user choices  
 
----
 
 ## 📚 Book Feedback, Resell & Second-Hand Marketplace  
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
@@ -48,7 +44,6 @@
 🔐 Integrated authentication & verified reviews  
 ⚡ Smooth UI for fast interactions  
 
----
 
 ## 🚦 AI-Powered Traffic Management System  
 **Tech Stack:** Python, YOLOv8, OpenCV, Pandas, Matplotlib  
@@ -57,7 +52,6 @@
 📊 Visual dashboards for planners  
 🏙️ Enhances city traffic and emergency response  
 
----
 
 # 💼 **Experience**
 
@@ -69,7 +63,6 @@
 ✔ Collaborative API integration with frontend team  
 ✔ Built a responsive user interface  
 
----
 
 # 🛠 **Tech Stack**
 
@@ -89,7 +82,6 @@
 AI Integration • Chatbots • CV • Automation  
 Scraping • REST APIs • Full-Stack Development  
 
----
 
 # 🏆 **Achievements**
 
@@ -98,7 +90,6 @@ Scraping • REST APIs • Full-Stack Development
 
 🏸 2nd place — **University Smavesh Badminton Championship**
 
----
 
 # 🎓 **Education**
 
@@ -106,40 +97,18 @@ Scraping • REST APIs • Full-Stack Development
 SRM University, Delhi-NCR  
 CGPA: **9.02**  
 
----
-
-# 📊 **GitHub Stats & Visuals**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muskanostwal&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muskanostwal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanostwal&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🎨 **Skill Icons**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,opencv,tensorflow,git,github,html,css,vscode,powerbi&theme=light" />
 </p>
 
----
 
-# 🐍 **Contribution Snake Animation**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Muskanostwal/Muskanostwal/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🌈 **Fun Gradient Divider**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
----
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨  
 Feel free to explore my repositories and connect with me.</h3>
